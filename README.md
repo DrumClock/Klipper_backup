@@ -37,6 +37,13 @@ This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/kl
 
  
 # 4) Klipper makra pro manuální backup
+
+   "INSTALACE SHELL pomocí KIAUH" 
+ - vyber "E" pro Extension
+ - vyber "1" pro rozšíření
+
+  - přidej makro do cfg klipperu 
+
 ```shell
 [gcode_macro update_git]
 gcode:
